@@ -1,0 +1,45 @@
+// 2014, PAULO BRUNO DE SOUSA SERAFIM, Fortaleza - CE, Brasil
+
+ #################################### PERMISSAO ############################################
+ #                                                                                         #
+ #      Eh permitida a utilizacao, copia, modificacao e distribuicao deste arquivo para    #
+ #  qualquer proposito sem nenhum onus desde que a 'nota de identificacao do autor'        #
+ #  (primeira linha do arquivo) esteja presente em todas as copias e que tanto a 'nota de  #
+ #  identificacao' quanto esta permissao estejam presentes na documentacao de suporte.     #
+ #                                                                                         #
+ #      Duvidas, sugestoes ou bugs encontrados, favor entrar em contato com o autor.       #
+ #                                                                                         #
+ #                                                                                         #
+ ##################################### PERMISSION ##########################################
+ #                                                                                         #
+ #      Permission to use, copy, modify, and distribute this software for any purpose      #
+ #  and without fee is hereby granted, provided that the above 'identification note of     #
+ #  the author' (first line) appear in all copies and that both the 'identification note'  #
+ #  and this permission notice appear in supporting documentation.                         #
+ #                                                                                         #
+ #      Doubts, sugestions or bug report, please contact author.                           #
+ #                                                                                         #
+ #                                                                                         #
+ ###########################################################################################
+
+
+### Utilizacao ###
+
+    *linha 10:
+        - Mude o valor de retorno de acordo com a sua funcao.
+        - Caso sua funcao possua mais de um argumento sera necessario modificar sua definicao e as utilizacoes dela.
+    *linha 17:
+        - Mude os valores dentro da chamada da funcao de acordo com suas necessidades.
+        - Lembre-se que o ultimo valor sera o passo.
+        - Caso seja dado a quantidade de passos, n, calcule h = (xSup - xInf) / n.
+    *linha 25:
+        - Mude o nome do arquivo de acordo com suas necessidades.
+    *linha 29:
+        - Imprime na primeira linha do arquivo o numero de passos n para ir de xInf a xSup com passo h.
+        - Caso nao precise desta informacao apenas comente a linha (ou delete-a caso seja mais conveniente).
+        - Caso precise de outra informacao altere a linha.
+    *linha 34:
+        - Principal linha do arquivo, cria a tabela propriamente dita no arquivo.
+        - Atente que o numero de casas decimais pode ser alterado nesta linha.
+        - Caso nao use essa linha ou precise muda-la drasticamente voce provavelmente nao deveria estar utilizando este programa.
+
