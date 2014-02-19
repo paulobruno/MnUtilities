@@ -1,26 +1,21 @@
 // 2014, PAULO BRUNO DE SOUSA SERAFIM, Fortaleza - CE, Brasil
 
- #################################### PERMISSAO ############################################
- #                                                                                         #
- #      Eh permitida a utilizacao, copia, modificacao e distribuicao deste arquivo para    #
- #  qualquer proposito sem nenhum onus desde que a 'nota de identificacao do autor'        #
- #  (primeira linha do arquivo) esteja presente em todas as copias e que tanto a 'nota de  #
- #  identificacao' quanto esta permissao estejam presentes na documentacao de suporte.     #
- #                                                                                         #
- #      Duvidas, sugestoes ou bugs encontrados, favor entrar em contato com o autor.       #
- #                                                                                         #
- #                                                                                         #
- ##################################### PERMISSION ##########################################
- #                                                                                         #
- #      Permission to use, copy, modify, and distribute this software for any purpose      #
- #  and without fee is hereby granted, provided that the above 'identification note of     #
- #  the author' (first line) appear in all copies and that both the 'identification note'  #
- #  and this permission notice appear in supporting documentation.                         #
- #                                                                                         #
- #      Doubts, sugestions or bug report, please contact author.                           #
- #                                                                                         #
- #                                                                                         #
- ###########################################################################################
+### PERMISSAO ####
+
+    Eh permitida a utilizacao, copia, modificacao e distribuicao deste arquivo para qualquer proposito sem nenhum onus desde que a 'nota de identificacao do autor' (primeira linha do arquivo) esteja presente em todas as copias e que tanto a 'nota de identificacao' quanto esta permissao estejam presentes na documentacao de suporte.
+
+    Duvidas, sugestoes ou bugs encontrados, favor entrar em contato com o autor.
+
+---
+
+
+### PERMISSION ###
+
+    Permission to use, copy, modify, and distribute this software for any purpose and without fee is hereby granted, provided that the above 'identification note of the author' (first line) appear in all copies and that both the 'identification note' and this permission notice appear in supporting documentation.
+
+    Doubts, sugestions or bug report, please contact author.
+
+---
 
 
 ### Utilizacao ###
@@ -42,4 +37,6 @@
         - Principal linha do arquivo, cria a tabela propriamente dita no arquivo.
         - Atente que o numero de casas decimais pode ser alterado nesta linha.
         - Caso nao use essa linha ou precise muda-la drasticamente voce provavelmente nao deveria estar utilizando este programa.
+
+
 
