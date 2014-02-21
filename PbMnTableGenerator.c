@@ -1,7 +1,4 @@
-// 2014, PAULO BRUNO DE SOUSA SERAFIM, Fortaleza - CE, Brasil
-
-#ifndef PB_MN2_TABLE_GENERATOR_H
-#define PB_MN2_TABLE_GENERATOR_H
+// Fevereiro 2014, PAULO BRUNO DE SOUSA SERAFIM, Fortaleza - CE, Brasil
 
 #include <stdio.h>
 
@@ -36,5 +33,3 @@ void generate_table(double (*func)(double), double xInf, double xSup, double h)
 
 	fclose(fp);
 }
-
-#endif // PB_MN2_TABLE_GENERATOR_H
